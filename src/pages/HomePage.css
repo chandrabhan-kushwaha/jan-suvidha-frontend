@@ -1,0 +1,10 @@
+/* frontend/src/pages/HomePage.css */
+.swiper-pagination-bullet {
+  background-color: #ffffff !important;
+  opacity: 0.6 !important;
+}
+
+.swiper-pagination-bullet-active {
+  background-color: #2563eb !important; /* Tailwind's blue-600 */
+  opacity: 1 !important;
+}
